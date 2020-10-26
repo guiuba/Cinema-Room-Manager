@@ -1,2 +1,2 @@
 # CinemaRoomManagerProject
-Stage 5/5 
+Implementation of JetBrains Academy Cinema Room Manager Project Stage 5/5 
