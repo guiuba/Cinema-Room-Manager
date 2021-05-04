@@ -1,2 +1,2 @@
 # Cinema-Room-Manager
-Implementation of JetBrains Academy Cinema Room Manager Project Stage 5/5 
+An application that sell tickets, check available seats, see sales statistics, and more.
